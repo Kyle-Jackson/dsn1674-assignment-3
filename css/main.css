@@ -11,13 +11,13 @@ h1 {
 h2 {
     color:#79756f;
     font-size: 1.5rem;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Alfa Slab One';
   }
 
 h3 {
     color:#79756f;
     font-size: 1rem;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Alfa Slab One';
   }
 
   a {
@@ -31,6 +31,7 @@ h3 {
 blockquote {
   font-family: 'Droid Serif', serif;
   font-style: italic;
+  font-size: 1.5rem;
 }
 
 footer {
@@ -41,7 +42,13 @@ footer {
 }
 
 ol {
-  list-style-type: none;
+  list-style-type: lower roman;
   text-align: left;
   padding: 0;
+}
+
+p {
+  color:#222222;
+  font-size: 1rem;
+  font-family: 'Arial'
 }
