@@ -2,15 +2,46 @@ html{
   background-color: #dbd6cf;
 }
 
-h1, h2, h3 {
+h1 {
   color:#79756f;
   font-size: 2rem;
   font-family: 'Alfa Slab One', cursive;
   }
 
-a:hover {
+h2 {
+    color:#79756f;
+    font-size: 1.5rem;
+    font-family: 'Alfa Slab One', cursive;
+  }
+
+h3 {
+    color:#79756f;
+    font-size: 1rem;
+    font-family: 'Alfa Slab One', cursive;
+  }
+
+  a {
+    color: #803837;
+  }
+
+  a:hover {
     color: #ff3333;
   }
-a {
-  color: #803837;
+
+blockquote {
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+}
+
+footer {
+  color:#79756f;
+  font-size: 0.5rem;
+  text-align: right;
+
+}
+
+ol {
+  list-style-type: none;
+  text-align: left;
+  padding: 0;
 }
