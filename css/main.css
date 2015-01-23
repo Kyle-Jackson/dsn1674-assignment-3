@@ -1,0 +1,16 @@
+html{
+  background-color: #dbd6cf;
+}
+
+h1, h2, h3 {
+  color:#79756f;
+  font-size: 2rem;
+  font-family: 'Alfa Slab One', cursive;
+  }
+
+a:hover {
+    color: #ff3333;
+  }
+a {
+  color: #803837;
+}
