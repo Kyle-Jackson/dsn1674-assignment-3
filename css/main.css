@@ -1,6 +1,7 @@
 html{
   background-color: #dbd6cf;
   font-family: Arial, sans-serif;
+  line-height: 1.5;
 }
 
 nav ol {
@@ -39,6 +40,7 @@ blockquote {
   font-family: 'Droid Serif', serif;
   font-style: italic;
   font-size: 1.5rem;
+  line-height: 1;
 }
 
 footer {
@@ -56,4 +58,19 @@ p {
 
 ol {
   list-style-type: lower-roman;
+  line-height: 1.5;
+}
+blockquote span {
+  font-size: 2rem;
+  color:#79756f;
+}
+
+dt {
+  font-weight: bold;
+}
+ol span {
+  list-style-type: circle;
+
+figcaption {
+  font-size: 0.5rem;
 }
