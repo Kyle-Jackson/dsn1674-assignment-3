@@ -43,7 +43,7 @@ blockquote {
   line-height: 1;
 }
 
-footer {
+blockquote div {
   color:#79756f;
   font-size: 0.75rem;
   text-align: right;
@@ -68,7 +68,7 @@ blockquote span {
 dt {
   font-weight: bold;
 }
-footer ul {
+footer ol {
   list-style-type: circle;
 }
 
